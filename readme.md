@@ -13,12 +13,32 @@ Este é um sistema simples de cadastro de clientes desenvolvido com **HTML**, **
 
 ---
 
-## 🚀 Como executar o projeto
+## 🚀 Como Executar o Projeto
 
-1. **Clone ou baixe o repositório**:
-   ```bash
-   git clone https://github.com/Caio-Moreno/case-ebac
+Você pode executar este projeto de duas formas:
 
-2. **Basta executar o arquivo index.html abrindo diretamente ou utilizando o live server**:
+### ✅ Opção 1: Executar Localmente
+
+1. **Clone ou baixe o projeto no GitHub:**
+
    ```bash
-   link de download do plugin: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+   ```
+   Ou baixe o `.zip` diretamente pela interface do GitHub.
+
+2. **Abra o arquivo `index.html` diretamente no navegador**
+
+   **OU**
+
+   **Use a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) do VS Code:**
+   - Instale a extensão Live Server
+   - Clique com o botão direito no `index.html`
+   - Selecione **"Open with Live Server"**
+
+---
+
+### 🌐 Opção 2: Acessar via Vercel
+
+Você também pode acessar a versão online do projeto diretamente pela Vercel:
+
+🔗 [https://case-ebac.vercel.app/](https://case-ebac.vercel.app/)
