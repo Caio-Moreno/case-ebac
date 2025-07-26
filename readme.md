@@ -17,4 +17,8 @@ Este é um sistema simples de cadastro de clientes desenvolvido com **HTML**, **
 
 1. **Clone ou baixe o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/cnc-tech-cadastro.git
+   git clone https://github.com/Caio-Moreno/case-ebac
+
+2. **Basta executar o arquivo index.html abrindo diretamente ou utilizando o live server**:
+   ```bash
+   link de download do plugin: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
